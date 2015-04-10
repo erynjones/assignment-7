@@ -83,6 +83,7 @@ p {
 .rocks {
   position: relative;
   clear: both;
+  overflow: hidden;
 }
 
 img {
