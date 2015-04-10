@@ -74,7 +74,7 @@ p {
   position: absolute;
   width: 100%;
   bottom: -11%;
-  font-size: 1.75em;
+  font-size: 1em;
   font-weight: bold;
   background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.5));
   padding: 1em;
@@ -83,7 +83,6 @@ p {
 .rocks {
   position: relative;
   clear: both;
-  display: block;
 }
 
 img {
